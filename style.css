@@ -5,6 +5,17 @@
     background-size: 30px;
  }
 
+ #autore1 {
+     color: rgb(160, 157, 157);
+ }
+
+ #aut2 {
+    color: rgb(0, 204, 255);
+ }
+
+ #data{
+    color-scheme:rgb(160, 157, 157);
+ }
  .container {
     width: 70%;
     margin: 50px auto;
