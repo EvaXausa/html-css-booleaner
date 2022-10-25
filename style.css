@@ -5,7 +5,11 @@
     background-size: 30px;
  }
 
- #autore1 {
+ body {
+   margin: 0;
+  }
+ 
+  #autore1 {
      color: rgb(160, 157, 157);
  }
 
